@@ -1,4 +1,4 @@
-module jumpserver-go-sdk
+module github.com/wlin-jin/jumpserver-go-sdk
 
 go 1.13
 
